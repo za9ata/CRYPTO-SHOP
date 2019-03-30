@@ -1,2 +1,2 @@
 # CRYPTO-SHOP
-buy and sell cryto and shoing with all cryto currency 
+buy and sell cryto and shopng with all cryto currency 
